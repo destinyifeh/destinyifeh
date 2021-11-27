@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @destinyifeh
 - 👀 I’m interested in both local and remote jobs
-- 🌱 Immediate skill in react, nodejs, server side rendering with handlebars template engine, bootstrap, html5, css3.
+- 🌱 Intermediate skill in react, nodejs, server side rendering with handlebars template engine, bootstrap, html5, css3.
 - 💞️ I'm ready to collaborate, partner and work with you.
 - 📫 You can reach me through this email address -> destinyifeh@gmail.com
 
